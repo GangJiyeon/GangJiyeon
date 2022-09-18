@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=d9d2e9&height=200&section=header&text=Welcome%20to%20my%20GIT_HUB&fontSize=50&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=soft&color=c5cae9&height=200&section=header&text=Gang%20Jiyeon%&fontSize=40&fontColor=000000)
 
-<div style="font-size: 60px; text-align: center;">Welcome to my GIT_HUB!</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangJiteon)](https://github.com/anuraghazra/github-readme-stats)
+
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/Html-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQUERY&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=SPRING&logoColor=white"/>
