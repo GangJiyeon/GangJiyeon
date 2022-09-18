@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=#b9bdd0&height=400&section=header&text=Welcome to my GIT_HUB!&fontSize=40)
 
 <div style="font-size: 60px; text-align: center;">Welcome to my GIT_HUB!</div>
