@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="font-size: 30px;">Welcome to my GIT_HUB!</div>
+<div style="font-size: 60px; text-align: center;">Welcome to my GIT_HUB!</div>
