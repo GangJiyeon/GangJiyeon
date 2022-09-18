@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=_hexcode(d9d2e9)&height=200&section=header&text=Welcome%20to%20my%20GIT_HUB&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=soft&color=_d9d2e9&height=200&section=header&text=Welcome%20to%20my%20GIT_HUB&fontSize=80&fontColor=d6ace6)
 
 <div style="font-size: 60px; text-align: center;">Welcome to my GIT_HUB!</div>
