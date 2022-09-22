@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=c5cae9&height=100&section=header&text=Gang%20Jiyeon%&fontSize=40&fontColor=000000)
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=c5cae9&height=30&section=header)
 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangJiyeon)](https://github.com/anuraghazra/github-readme-stats)
-![header](https://capsule-render.vercel.app/api?type=soft&color=c5cae9&height=30&section=header)
 
 <img alt="HTML" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="HTML" src ="https://img.shields.io/badge/Html-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
