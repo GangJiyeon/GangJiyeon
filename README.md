@@ -1,21 +1,23 @@
-### Hi there 👋
+# Gang Jiyeon's Github 
 
-<!--
-**GangJiyeon/GangJiyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 안녕하세요
 
-Here are some ideas to get you started:
+2022년 4월부터 백엔드 개발 공부를 시작한 강지연입니다!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=c5cae9&height=30&section=header)
+- 🌱 개발 블로그를 운영 중입니다. https://blog.naver.com/wldus23966
+- 🌱 티스토리로 개발 블로그 이전 https://hell0w0rld-0614.tistory.com
+- 🤔 포트폴리오 사이트 
+- 💬 저에 대해 더 알고싶다면
+  
+
+<br>
+<br>
+
+👋 프로젝트 중...
+
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=c5cae9&height=10&section=header)
 
 
 
