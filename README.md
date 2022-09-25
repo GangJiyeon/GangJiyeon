@@ -20,7 +20,7 @@
 현재 스케줄 관리 웹사이트를 제작 중입니다
 | | 프로젝트 도메인 | 프로젝트 기간 | 깃허브 | 프로젝트 요약 |
 | --- | --- | --- | --- | --- | 
-| bbq | 2 | 3 | | bbq 클론 코딩 사이트 |
+| bbq | 2 | 3 | https://github.com/GangJiyeon/bbq | bbq 클론 코딩 사이트 |
 | moneyexchange | 5 | 6 | | 환율 정보 및 환전 사이트
 | env_mbti | 8 | 9 | | 환경 mbti
 | portfolio |  | | | 포트폴리오 사이트
