@@ -21,7 +21,7 @@
 | | 프로젝트 도메인 | 프로젝트 기간 | 깃허브 | 프로젝트 요약 |
 | --- | --- | --- | --- | --- | 
 | bbq | 2 | 3 | https://github.com/GangJiyeon/bbq | bbq 클론 코딩 사이트 |
-| moneyexchange | 5 | 6 |https://github.com/seongsinhye/moneyexchange | 환율 정보 및 환전 사이트
+| moneyexchange | 5 | 6 |https://github.com/seongsinhye/moneyexchange | 환율 / 환전 사이트
 | env_mbti | 8 | 9 | https://github.com/Soyi1/mbti | 환경 mbti
 | portfolio |  | |https://github.com/GangJiyeon/portfolio_site | 포트폴리오 사이트
 | plannerz | | | https://github.com/GangJiyeon/plannerz | 스케줄 관리 웹 사이트 |
