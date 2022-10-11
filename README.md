@@ -11,20 +11,20 @@
 
 - 🌱 개발 블로그를 운영 중입니다 https://blog.naver.com/wldus23966
 - 🌱 티스토리로 개발 블로그 이전 https://hell0w0rld-0614.tistory.com
-- 🤔 포트폴리오 사이트 
+- 🤔 포트폴리오 
 - 💬 저에 대해 더 알고싶다면 
   
 
 ---
 ### **👋 프로젝트**
 현재 스케줄 관리 웹사이트를 제작 중입니다
-| | 프로젝트 도메인 | 프로젝트 기간 | 깃허브 | 프로젝트 요약 |
-| --- | --- | --- | --- | --- | 
-| bbq | 2 | 3 | https://github.com/GangJiyeon/bbq | bbq 클론 코딩 사이트 |
-| moneyexchange | 5 | 6 |https://github.com/seongsinhye/moneyexchange | 환율 / 환전 사이트
-| env_mbti | 8 | 9 | https://github.com/Soyi1/mbti | 환경 mbti
-| portfolio |  | |https://github.com/GangJiyeon/portfolio_site | 포트폴리오 사이트
-| plannerz | | | https://github.com/GangJiyeon/plannerz | 스케줄 관리 웹 사이트 |
+| | 프로젝트 도메인 | 프로젝트 기간 | 깃허브 | 
+| --- | --- | --- | --- | 
+| bbq 클론코딩 | 2 | 3 | https://github.com/GangJiyeon/bbq | 
+| 환전사이트 | 5 | 6 |https://github.com/seongsinhye/moneyexchange | 
+| 환경 mbti | 8 | 9 | https://github.com/Soyi1/mbti | 
+| 포트폴리오 |  | |https://github.com/GangJiyeon/portfolio_site | 
+| 스케줄러 |  |2022.08.10 - 2022.10.11 | https://github.com/GangJiyeon/plannerz | 
 
 ---
 ### **👋 이런 기술을 사용해보았어요**
@@ -42,5 +42,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangJiyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=c5cae9&height=10&section=header)
