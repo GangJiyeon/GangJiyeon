@@ -18,13 +18,13 @@
 ---
 ### **👋 프로젝트**
 현재 스케줄 관리 웹사이트를 제작 중입니다
-| | 프로젝트 도메인 | 프로젝트 기간 | 깃허브 | 
+| | 멤버 | 프로젝트 기간 | 깃허브 | 
 | --- | --- | --- | --- | 
-| bbq 클론코딩 | 2 | 3 | https://github.com/GangJiyeon/bbq | 
-| 환전사이트 | 5 | 6 |https://github.com/seongsinhye/moneyexchange | 
-| 환경 mbti | 8 | 9 | https://github.com/Soyi1/mbti | 
-| 포트폴리오 |  | |https://github.com/GangJiyeon/portfolio_site | 
-| 스케줄러 |  |2022.08.10 - 2022.10.11 | https://github.com/GangJiyeon/plannerz | 
+| bbq 클론코딩 | 3인 | 2022.05 | https://github.com/GangJiyeon/bbq | 
+| 환전사이트 | 2인 | 2022.09.17 - 2022.10.02 |https://github.com/seongsinhye/moneyexchange | 
+| 환경 mbti | 2인 | 2022.09.01 - 2022.10.04 | https://github.com/Soyi1/mbti | 
+| 포트폴리오 | 개인 | 2022.09.28 - 2022.10.12 |https://github.com/GangJiyeon/portfolio_site | 
+| 스케줄 관리 | 개인 |2022.08.10 - 2022.10.11 | https://github.com/GangJiyeon/plannerz | 
 
 ---
 ### **👋 이런 기술을 사용해보았어요**
