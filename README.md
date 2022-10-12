@@ -10,9 +10,8 @@
 개발을 시작한 이후 매일매일 개발블로그에 글을 쓰며 공부하고, 사람들과 지식을 나누고 있습니다
 
 - 🌱 개발 블로그를 운영 중입니다 https://blog.naver.com/wldus23966
-- 🌱 티스토리로 개발 블로그 이전 https://hell0w0rld-0614.tistory.com
-- 🤔 포트폴리오 
-- 💬 저에 대해 더 알고싶다면 
+- 🤔 티스토리로 개발 블로그 이전 https://hell0w0rld-0614.tistory.com
+- 💬 저에 대해 더 알고싶다면 010-3574-7494 / wldus23966@naver.com
   
 
 ---
@@ -20,7 +19,7 @@
 현재 스케줄 관리 웹사이트를 제작 중입니다
 | | 멤버 | 프로젝트 기간 | 깃허브 | 
 | --- | --- | --- | --- | 
-| bbq 클론코딩 | 3인 | 2022.05 | https://github.com/GangJiyeon/bbq | 
+| bbq 클론코딩 | 3인 | 2022.05.17 - 2022.05.25 | https://github.com/GangJiyeon/bbq | 
 | 환전사이트 | 2인 | 2022.09.17 - 2022.10.02 |https://github.com/seongsinhye/moneyexchange | 
 | 환경 mbti | 2인 | 2022.09.01 - 2022.10.04 | https://github.com/Soyi1/mbti | 
 | 포트폴리오 | 개인 | 2022.09.28 - 2022.10.12 |https://github.com/GangJiyeon/portfolio_site | 
