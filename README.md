@@ -1,33 +1,48 @@
-#### Gang Jiyeon's Github
+#### **Gang Jiyeon's Github**
 
 - 🌱 Blog | https://blog.naver.com/wldus23966
 - 🤔 Tistory | https://hell0w0rld-0614.tistory.com
 - 💬 contact me | wldus23966@naver.com
 
 ---
-#### **👋 wep developer **
+#### **👋 Web development**
 
-- 🏢 [애드펀] 2022.11.01~ <br/>
-@챗봇api ㅇ(python, flask) <br/>
 
-@해마여행 결제 모듈(python, flask) <br/>
-@해마여행 관리자 페이지  <br/>
--처리 언어 변경(node.js, java, asp, java script=> python flask, java script <br/>
--기능 수정 및 추가 <br/>
--보안 처리 <br/>
-ㄴ회원관리(로그인/로그아웃/…) <br/>
-@Sms api ㅇ(php) <br/>
-@상가나라 모바일 웹뷰(java) <br/>
--안드로이드 스튜디오 웹뷰 제작 <br/>
--kcp 결제 모듈 처리 <br/>
-@패밀리원 결제 api ㅈ <br/>
-@홈페이지 수정 ㅇ <br/>
--정관일신 헤더 슬라이더(asp, js) <br/> 
--뭐시기 병원 헤더 슬라이더, 팝업(asp, js) <br/>
--쿡3000 게시판(asp) <br/>
--뭐시기 게시판(asp) <br/>
+- [애드펀] 2022.11.01~ 
+
+ 
+``` 
+  @ 해마여행 카카오 챗봇 | (python, flask)
+  
+  @ 해마여행 결제 모듈(python, flask) 
+  
+  @ 해마여행 관리자 페이지 
+    -처리 언어 변경(node.js, java, asp, java script=> python flask, java script <br/>
+    -보안 처리
+    -기능 수정 및 추가 
+      ㄴ회원관리(로그인/로그아웃/…) 
+      
+  @ Sms api ㅇ(php) 
+  
+  @ 상가나라 모바일 웹뷰(java)
+    -안드로이드 스튜디오 웹뷰 제작
+    -kcp 결제 모듈 처리 
+    
+  @ 패밀리원 결제 api
+  
+  @ 홈페이지 수정
+    -정관일신 헤더 슬라이더(asp, js) 
+    -뭐시기 병원 헤더 슬라이더, 팝업(asp, js) 
+    -쿡3000 게시판(asp) 
+    -뭐시기 게시판(asp) 
+
+```
+
+
+
 
 - web project
+
 
 | | member | period | github | 
 | --- | --- | --- | --- | 
