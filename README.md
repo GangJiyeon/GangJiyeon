@@ -6,8 +6,7 @@
   
 
 ---
-### **👋 프로젝트**
-현재 스케줄 관리 웹사이트를 제작 중입니다
+### **👋 개인 프로젝트**
 | | 멤버 | 프로젝트 기간 | 깃허브 | 
 | --- | --- | --- | --- | 
 | bbq 클론코딩 | 3인 | 2022.05.17 - 2022.05.25 | https://github.com/GangJiyeon/bbq | 
@@ -17,7 +16,7 @@
 | 스케줄 관리 | 개인 |2022.08.10 - 2022.10.11 | https://github.com/GangJiyeon/plannerz | 
 
 ---
-### **👋 이런 기술을 사용해보았어요**
+### **👋 사용 **
 | 구분 | skills |
 | --- | --- |
 | front-end | <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/> <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/> |
