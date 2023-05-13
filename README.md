@@ -20,15 +20,11 @@
  
 </div>
 
-
  
-``` 
-👋 애드펀 [ 2022.11.01 - 2024.02.28 ]
-``` 
 
-<details margin-left:10px;>
+<details>
 <summary> 
-
+<pre><code> 👋 애드펀 [ 2022.11.01 - 2024.02.28 ] </code></pre>
 </summary>
 <div markdown="1">
 
@@ -62,10 +58,12 @@
 </div>
 </details>
 
+<details margin-left:10px;>
+<summary> 
+<pre><code> 👋 web project [ 2022.05.17 - 2022.10.11 ] </code></pre>
+</summary>
 
-``` 
-👋 web project [ 2022.05.17 - 2022.10.11 ]
-``` 
+<div markdown="1">
 <div align="center">
  
 | project | member | period | github | url |
@@ -76,4 +74,5 @@
 | 포트폴리오 | 1 | 2022.09.28 - 2022.10.12 |https://github.com/GangJiyeon/portfolio_site | |
 | 스케줄 관리 | 1 |2022.08.10 - 2022.10.11 | https://github.com/GangJiyeon/plannerz | |
  
+</div>
 </div>
