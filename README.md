@@ -23,7 +23,7 @@
  
 
 <details>
-<summary> 
+<summary> detail
 <pre><code> 👋 애드펀 [ 2022.11.01 - 2024.02.28 ] </code></pre>
 </summary>
 <div markdown="1">
@@ -58,8 +58,9 @@
 </div>
 </details>
 
-<details margin-left:10px;>
+<details>
 <summary> 
+ detail
 <pre><code> 👋 web project [ 2022.05.17 - 2022.10.11 ] </code></pre>
 </summary>
 
