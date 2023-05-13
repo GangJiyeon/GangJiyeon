@@ -14,26 +14,27 @@
 ``` 
   @ 해마여행 카카오 챗봇 | (python, flask)
   
-  @ 해마여행 결제 모듈(python, flask) 
+  @ 해마여행 결제 모듈 | (python, flask) 
   
-  @ 해마여행 관리자 페이지 
+  @ 해마여행 관리자 페이지 | (python, flask)
     -처리 언어 변경(node.js, java, asp, java script=> python flask, java script <br/>
     -보안 처리
     -기능 수정 및 추가 
       ㄴ회원관리(로그인/로그아웃/…) 
       
-  @ Sms api(php) 
+  @ 나누미 Sms api | (php) 
   
-  @ 상가나라 모바일 웹뷰(java)
+  @ 상가나라 모바일 웹뷰 | (java)
     -안드로이드 스튜디오 웹뷰 제작
     -kcp 결제 모듈 처리 
     
   @ 패밀리원 배송 api | (python, flask)
   
-  @ 홈페이지 수정
+  @ 홈페이지 수정 | (asp)
     -정관일신 헤더 슬라이더(asp, js) 
+    -맥킨지일신기독병워 헤더 슬라이더(asp, js)
     -뭐시기 병원 헤더 슬라이더, 팝업(asp, js) 
-    -쿡3000 게시판(asp) 
+    -동아요리커피직업전문학교 게시판(asp) 
     -뭐시기 게시판(asp) 
 
 ```
