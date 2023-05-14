@@ -1,9 +1,17 @@
 
 <div align="center">
 
-### **Gang Jiyeon's Github**
+#### **Gang Jiyeon's Github**
 
- 
+ <div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+</div>
+
+<br>
+
 🌱 Blog | https://blog.naver.com/wldus23966  
 🤔 Tistory | https://hell0w0rld-0614.tistory.com  
  💬 contact me | wldus23966@naver.com  
@@ -15,7 +23,7 @@
 
 <div align="center">
  
-### **Database / Artificial Intelligence**
+#### **Database / Artificial Intelligence**
  
 </div>
 
@@ -25,7 +33,7 @@
 
 <div align="center">
  
-### **Web development**
+#### **Web development**
  
 </div>
 
