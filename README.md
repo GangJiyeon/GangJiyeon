@@ -49,9 +49,7 @@
 <br> 
  
 > ###### 해마여행 카카오 챗봇
-``` 
--python, flask
-``` 
+
 <br>  
  
 > ###### 해마여행 결제 모듈 
@@ -60,28 +58,18 @@
  
 <br>  
  
-> ###### 해마여행 관리자 페이지
-######  <https://github.com/GangJiyeon/Haema>
-``` 
--처리 언어 변경(node.js, java, asp, java script=> python flask, java script 
--보안 처리
--기능 수정 및 추가 
-``` 
+> ###### 해마여행 관리자 페이지   - <https://github.com/GangJiyeon/Haema>
+
  
 <br> 
  
 > ###### 나누미 Sms api
-``` 
-- php
-``` 
+
  
 <br>  
  
 > ###### 상가나라 모바일 웹뷰
-``` 
--안드로이드 스튜디오 웹뷰 제작
--kcp 결제 모듈 처리 
-``` 
+
  
 <br> 
  
