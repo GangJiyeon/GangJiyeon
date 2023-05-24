@@ -35,41 +35,29 @@
 
 <details>
  <summary> click
- <pre><code> 👋 adfun [ 2022.11.01 - 2024.02.28 ] </code></pre>
+ <pre><code> 👋 adfun [ 2022.11.01 - 2024.06.30 ] </code></pre>
  </summary>
 <div markdown="1">
  
 <br> 
  
-
 > ###### 해마여행 카카오 챗봇
-
-
-<br>  
- 
-> ##### 해마여행 결제 모듈 
-
- 
  
 <br>  
  
-
 > ###### 해마여행 관리자 페이지   - <https://github.com/GangJiyeon/Haema>
 
- 
 <br> 
  
 > ###### 나누미 Sms api
 
- 
 <br>  
  
-> ###### 상가나라 모바일 웹뷰
-
+> ###### 상가나라 모바일 웹뷰 - <https://github.com/GangJiyeon/BusanSangGaNaRa>
 
 <br> 
  
-> ##### 패밀리원 배송 api
+> ##### 패밀리원 배송 api - <https://github.com/GangJiyeon/Familyone>
 
 <br> 
  
