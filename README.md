@@ -35,7 +35,7 @@
 
 <details>
  <summary> click
- <pre><code> 👋 adfun [ 2022.11.01 - 2024.06.30 ] </code></pre>
+ <pre><code> 👋 adfun [ 2022.11.01 - 2023.06.30 ] </code></pre>
  </summary>
 <div markdown="1">
  
