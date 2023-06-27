@@ -6,8 +6,8 @@
 
 
 🌱 Blog | https://blog.naver.com/wldus23966  
-🤔 Tistory | https://gjy-dev.tistory.com/ 
- 💬 contact me | wldus23966@naver.com  
+🤔 Tistory | https://gjy-dev.tistory.com  
+💬 contact me | wldus23966@naver.com  
  
  
 </div>
