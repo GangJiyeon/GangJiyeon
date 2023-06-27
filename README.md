@@ -6,7 +6,7 @@
 
 
 🌱 Blog | https://blog.naver.com/wldus23966  
-🤔 Tistory | https://hell0w0rld-0614.tistory.com  
+🤔 Tistory | https://gjy-dev.tistory.com/ 
  💬 contact me | wldus23966@naver.com  
  
  
