@@ -1,37 +1,29 @@
 
+<br>
 <div align="center">
 
-#### **Gang Jiyeon's Github**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=061D5A&random=false&width=400&lines=welcome+to+my+github%F0%9F%98%8A)](https://git.io/typing-svg)
+</div>
 
 
+## about me
+Hello! I'm Jiyeon~    
+I'm interested in data analysis, web architecture.
 
+> If you want to know detail 👉 [portfolio](/public/CV.pdf), [resume](/public/CV.pdf), [cv](/public/CV.pdf) 
+<br> 
+
+## sosial
 🌱 Blog | https://blog.naver.com/wldus23966  
 🤔 Tistory | https://gjy-dev.tistory.com  
 💬 contact me | wldus23966@naver.com  
+ <br> 
  
+
+
+## web development
  
-</div>
 
----
-
-
-<div align="center">
- 
-#### **Database / Artificial Intelligence**
- 
-</div>
-
-
-
----
-
-<div align="center">
- 
-#### **Web development**
- 
-</div>
-
- 
 
 <details>
  <summary> click
@@ -95,3 +87,7 @@
  
 </div>
 </div>
+
+---
+
+<br> 
