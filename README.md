@@ -5,9 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=B0BCE9FF&random=false&width=400&lines=welcome+to+my+github%F0%9F%98%8A)](https://git.io/typing-svg)
 </div>
 
-![](https://raw.githubusercontent.com/GangJyeon/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/GangJyeon/github-stats-transparent/output/generated/languages.svg)
-
 
 
 ## about me
@@ -16,6 +13,9 @@ I'm interested in data analysis, web architecture.
 
 > If you want to know detail 👉 [portfolio](/public/CV.pdf), [resume](/public/CV.pdf), [cv](/public/CV.pdf) 
 <br> 
+
+![](https://raw.githubusercontent.com/GangJiyeon/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/GangJiyeon/github-stats-transparent/output/generated/languages.svg)
 
 ## sosial
 🌱 Blog | https://blog.naver.com/wldus23966  
