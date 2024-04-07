@@ -49,22 +49,14 @@ I'm interested in data analysis, web architecture.
 
 <br>  
  
-> ###### 상가나라 모바일 웹뷰 - <https://github.com/GangJiyeon/BusanSangGaNaRa>
+> ###### 상가나라 모바일 웹뷰 
 
 <br> 
  
 > ##### 패밀리원 배송 api - <https://github.com/GangJiyeon/Familyone>
 
-<br> 
+
  
-> ##### 홈페이지 수정
-``` 
--정관일신 헤더 슬라이더(asp, js) 
--맥킨지일신기독병워 헤더 슬라이더(asp, js)
--뭐시기 병원 헤더 슬라이더, 팝업(asp, js) 
--동아요리커피직업전문학교 게시판(asp) 
--뭐시기 게시판(asp) 
-``` 
 
 
 
