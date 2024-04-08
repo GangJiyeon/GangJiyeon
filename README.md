@@ -35,35 +35,17 @@ I'm interested in data analysis, web architecture.
  </summary>
 <div markdown="1">
  
-<br> 
- 
-> ###### 해마여행 카카오 챗봇
- 
-<br>  
- 
-> ###### 해마여행 관리자 페이지   - <https://github.com/GangJiyeon/Haema>
 
-<br> 
- 
-> ###### 나누미 Sms api
-
-<br>  
- 
-> ###### 상가나라 모바일 웹뷰 
-
-<br> 
- 
-> ##### 패밀리원 배송 api - <https://github.com/GangJiyeon/Familyone>
-
-
- 
-
-
-
+* ###### 해마여행 카카오 챗봇
+* ###### 해마여행 관리자 페이지   - <https://github.com/GangJiyeon/Haema>
+* ###### 나누미 Sms api
+* ###### 상가나라 웹앱 
+* ###### 패밀리원 배송 api - <https://github.com/GangJiyeon/Familyone>
 
 </div>
 </details>
-
+<br> 
+ 
 <details>
 <summary> 
  click
