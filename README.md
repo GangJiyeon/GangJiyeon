@@ -12,10 +12,13 @@ Hello! I'm Jiyeon~
 I'm interested in data analysis, web architecture.
 
 > If you want to know detail 👉 [portfolio](/public/CV.pdf), [resume](/public/CV.pdf), [cv](/public/CV.pdf) 
-<br> 
+<br>
 
+<div align="center">
+ 
 ![](https://raw.githubusercontent.com/GangJiyeon/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/GangJiyeon/github-stats-transparent/output/generated/languages.svg)
+</div>
 
 ## sosial
 🌱 Blog | https://blog.naver.com/wldus23966  
