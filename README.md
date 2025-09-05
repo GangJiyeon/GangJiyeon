@@ -22,8 +22,8 @@ I'm interested in data analysis, web architecture.
 
 ## sosial
 🌱 Blog | https://gangjiyeon.github.io     
-🤔 Tistory | https://gjy-dev.tistory.com  
-💬 contact me | wldus23966@naver.com  
+🤔 Tistory | https://1gjy-dev.tistory.com  
+💬 contact me | 1wldus23966@naver.com  
  <br> 
  
 
