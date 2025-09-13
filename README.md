@@ -34,7 +34,7 @@ I'm interested in data analysis, web architecture.
 
 <details>
  <summary> click
- <pre><code> 👋 adfun [ 2022.11.01 - 2023.06.30 ] </code></pre>
+ <pre><code> 👋 adfun [ 2022 - 2023 ] </code></pre>
  </summary>
 <div markdown="1">
  
