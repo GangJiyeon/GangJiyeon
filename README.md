@@ -1,9 +1,11 @@
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=GangJiyeon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/GangJiyeon"
+  width="1000"
+  height="300"
+/>
+</a>
 <br>
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=B0BCE9FF&random=false&width=400&lines=welcome+to+my+github%F0%9F%98%8A)](https://git.io/typing-svg)
-</div>
 
 
 
