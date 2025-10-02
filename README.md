@@ -1,27 +1,16 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=GangJiyeon&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/GangJiyeon"
-  width="1000"
+  width="600"
   height="300"
 />
 </a>
-<br>
-
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=GangJiyeon&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/GangJiyeon"
-    width="600"
-    height="120"
-  />
-</a>
-  
 
 
 ## about me
-Hello! I'm Jiyeon~    
-I'm interested in data analysis, web architecture.
+ Hello! I'm Jiyeon.     
+I'm a Java backend deveper and interested in XR!   
+
 
 > If you want to know detail 👉 [portfolio](/public/CV.pdf), [resume](/public/CV.pdf), [cv](/public/CV.pdf) 
 <br>
@@ -84,3 +73,5 @@ I'm interested in data analysis, web architecture.
 ---
 
 <br> 
+
+
