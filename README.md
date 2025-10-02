@@ -1,15 +1,14 @@
 
 <br>
-<br>
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=GangJiyeon&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/GangJiyeon?pet-id=761533069174975888"
-    width="1000"
-    height="200"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=GangJiyeon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/GangJiyeon"
+  width="300"
+  height="150"
+/>
 </a>
+
+
 
 
 ## about me
@@ -27,9 +26,9 @@ I'm a Java backend deveper and interested in XR!
 </div>
 
 ## sosial
-🌱 Blog | https://gangjiyeon.github.io     
-🤔 Tistory | https://1gjy-dev.tistory.com  
-💬 contact me | 1wldus23966@naver.com  
+- Blog | https://gangjiyeon.github.io     
+- Tistory | https://1gjy-dev.tistory.com  
+- contact me | 1wldus23966@naver.com  
  <br> 
  
 
@@ -64,13 +63,13 @@ I'm a Java backend deveper and interested in XR!
 <div markdown="1">
 <div align="center">
  
-| project | member | period | github | url |
+| project | member | period | github | 
 | :---:  | :---:  | :---:  | :---:  |  :---:  | 
-| bbq 클론코딩 | 3 | 2022.05.17 - 2022.05.25 | https://github.com/GangJiyeon/bbq | |
-| 환전사이트 | 2 | 2022.09.17 - 2022.10.02 |https://github.com/seongsinhye/moneyexchange | |
-| 환경 mbti | 2 | 2022.09.01 - 2022.10.04 | https://github.com/Soyi1/mbti | |
-| 포트폴리오 | 1 | 2022.09.28 - 2022.10.12 |https://github.com/GangJiyeon/portfolio_site | |
-| 스케줄 관리 | 1 |2022.08.10 - 2022.10.11 | https://github.com/GangJiyeon/plannerz | |
+| bbq 클론코딩 | 3 | 2022.05.17 - 2022.05.25 | https://github.com/GangJiyeon/bbq |
+| 환전사이트 | 2 | 2022.09.17 - 2022.10.02 |https://github.com/seongsinhye/moneyexchange |
+| 환경 mbti | 2 | 2022.09.01 - 2022.10.04 | https://github.com/Soyi1/mbti |
+| 포트폴리오 | 1 | 2022.09.28 - 2022.10.12 |https://github.com/GangJiyeon/portfolio_site |
+| 스케줄 관리 | 1 |2022.08.10 - 2022.10.11 | https://github.com/GangJiyeon/plannerz | 
  
 </div>
 </div>
