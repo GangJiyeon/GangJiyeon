@@ -64,7 +64,7 @@ I'm a Java backend deveper and interested in XR!
 <div align="center">
  
 | project | member | period | github | 
-| :---:  | :---:  | :---:  | :---:  |  :---:  | 
+| :---:  | :---:  | :---:  | :---:  |  
 | bbq 클론코딩 | 3 | 2022.05.17 - 2022.05.25 | https://github.com/GangJiyeon/bbq |
 | 환전사이트 | 2 | 2022.09.17 - 2022.10.02 |https://github.com/seongsinhye/moneyexchange |
 | 환경 mbti | 2 | 2022.09.01 - 2022.10.04 | https://github.com/Soyi1/mbti |
