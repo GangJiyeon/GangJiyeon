@@ -16,7 +16,7 @@
 I'm a Java backend deveper and interested in XR!   
 
 
-> If you want to know detail 👉 [portfolio](/public/CV.pdf), [resume](/public/CV.pdf), [cv](/public/CV.pdf) 
+> If you want to know detail 👉 [portfolio](https://gangjiyeon.github.io/me.portfolio/main.html), [resume](/public/CV.pdf), [cv](/public/CV.pdf) 
 <br>
 
 <div align="center">
