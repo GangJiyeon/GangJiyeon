@@ -13,7 +13,7 @@
 
 ## about me
  Hello! I'm Jiyeon.     
-I'm a Java backend deveper and interested in XR!   
+I'm a Java backend developer and interested in XR!   
 
 
 > If you want to know detail 👉 [portfolio](https://gangjiyeon.github.io/me.portfolio/main.html), [resume](/public/CV.pdf), [cv](/public/CV.pdf) 
