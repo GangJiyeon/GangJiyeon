@@ -24,7 +24,7 @@ Hello! I'm Jiyeon. I'm a Java & python backend developer and interested in XR!
 
   
 ### experience 
-* adfun web agench - python backend developer [ 2022 - 2023 ]
+* adfun web agency - python backend developer [ 2022 - 2023 ]
 * mega it java full stack developer education [ 2022 ]
 
 
