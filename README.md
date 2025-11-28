@@ -18,9 +18,12 @@ I'm a Java & python backend developer and interested in XR!
 * 이름: 강지연
 * 전공/관심분야: 컴퓨터 공학과/웹, XR
 * 사용 가능한 기술 스택
-  - 언어: HTML, CSS, Java, Python, C, JSP
-  - 프레임워크: Spring MVC, Flas
-  - 기타 (기초 경험): JavaScript(기초), Node.js(기초), PHP(기초), REST API 사용 경험
+  | 구분 | 내용 |
+  |---|---|
+  |언어| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)|
+  |프레임워크| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)|
+  |기타 (기초 경험)| ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)|
+
 * 관심 있는 개발 분야: 웹(백엔드), XR
 
 
