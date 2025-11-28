@@ -14,7 +14,7 @@ Hello, I'm Jiyeon👋
 I'm a Java & python backend developer and interested in XR!   
 
 * 이름: 강지연
-* 전공/관심분야: 컴퓨터 공학과/웹, XR
+* 전공/관심분야: 컴퓨터 공학전공 / 웹, XR
 * 사용 가능한 기술 스택
   | 구분 | 내용 |
   |---|---|
@@ -47,19 +47,19 @@ I'm a Java & python backend developer and interested in XR!
 
 |프로젝트 명|알바하기 싫다|
 |---|---|
-|설명|python flask를 사용한 웹 기간 가계부|
-|깃허브||
-|프로젝트 목적||
-|역할| - 백엔드 개발 및 프론트엔드 개발, 문서 작성<br> - |
+|설명|python flask를 사용한 웹 기반 가계부|
+|깃허브|https://github.com/Gyeong-creator/-5-|
+|프로젝트 목적|사용자의 수입/지출 내역을 관리할 수 있는 컴팩트한 웹 기반 가계부 제작|
+|역할| - 백엔드 개발 및 프론트엔드 개발: 기본 프로젝트 구조 및 환경 셋팅, 통계처리 로직 담당<br> - 문서작성: 제안서, 회의록, 보고서 작성 담당|
 
 
 
 #### project
-* plannerz: [ 2022.08.10 - 2022.10.11 ]  https://github.com/GangJiyeon/plannerz
-* plannerz-refactoring
-* whalley
-* whalley-score-engine
-* whalley-xr-city
+* plannerz: [ 2022.08 - 2022.10 ]  https://github.com/GangJiyeon/plannerz
+* plannerz-refactoring: [ 2025.11 - ]  https://github.com/GangJiyeon/springboot-modernization-2026
+* whalley: [ 2025.11 - ]  https://github.com/GangJiyeon/whalley
+* whalley-score-engine: [ 2025.11 - ]  https://github.com/GangJiyeon/whalley-score-engine
+* whalley-xr-city: [ 2025.11 - ]  https://github.com/GangJiyeon/whalley-xr-city
 
 
 <br> 
@@ -76,8 +76,8 @@ I'm a Java & python backend developer and interested in XR!
 
 
 
-**[ 최근 기여 내역 ]**
-
+**[ 참여 중인 오픈소스 프로젝트 ]**
+- 알바하기싫다: https://github.com/Gyeong-creator/-5-
 
 
 
@@ -86,13 +86,18 @@ I'm a Java & python backend developer and interested in XR!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GangJiyeon&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-|레파지토리|요약 및 기술 스택 정리|
-|---|---|
-|Familyone| - 패밀리원 배송 api(근무내용 복기, 보안상 일부 작성)<br>- `파이썬`, `flask`, `mysql`|
-|Haema|- 해마여행사 관리자 페이지(근무내용 복기, 보안상 일부 작성): `node.js` → `python flask`로 변경<br>- `파이썬`, `flask`, `js`, `mssql`|
-|perfect_c| - 인프런 홍정모 C언어 및 교재 perfect_c 예제 학습<br> -`c`|
-|Gangjiyeon.github.io| - 개인 깃허브 블로그||
-|plannerz| - 스케줄 관리 웹 <br> - `java`, `spring`, `mysql`|
+| Repository | Summary & Tech Stack |
+|-----------|----------------------|
+| **Familyone** | - 패밀리원 배송 API 개발 (근무내용 복기, 일부 보안 제외)<br> - 배송 데이터 조회·처리 API 구축, 인증/권한 로직 일부 개발<br> **Tech:** Python, Flask, MySQL |
+| **Haema** | - 해마여행사 관리자 페이지 리뉴얼 (일부 보안 제외)<br> - 기존 Node.js 기반을 Python Flask로 마이그레이션<br> - 예약/결제/고객 관리 관리자 페이지 유지보수<br> **Tech:** Python, Flask, JavaScript, MSSQL |
+| **perfect_c** | - 홍정모 C언어 & Perfect C 교재 예제 학습 레포<br> - 기본 문법·포인터·구조체·파일 I/O 중심 실습<br> **Tech:** C |
+| **Gangjiyeon.github.io** | - 개인 GitHub 블로그<br> - 학습 기록, 프로젝트 정리, 기술 블로그 운영<br> **Tech:** HTML, CSS, JavaScript, Jekyll (GitHub Pages) |
+| **plannerz** | - 스케줄 관리 웹 애플리케이션<br> - 일정 CRUD, 캘린더 UI, 사용자 인증, 알림 기능 포함<br> - AWS 배포 경험<br> **Tech:** Java, Spring MVC, MySQL, JSP, JavaScript |
+| **whalley** | - 워홀(Working Holiday) 정보 & 글로벌 커뮤니티 웹 서비스<br> - 국가별 비자 정보, 체크리스트, 게시판, Q&A, 북마크 기능<br> - 프론트/백 분리 아키텍처 적용<br> **Tech:** FastAPI(Python), PostgreSQL, Redis, Next.js(React/TypeScript) |
+| **whalley-score-engine** | - 워홀 점수 계산 엔진 (Whalley 서브 프로젝트)<br> - 사용자 입력 기반 자동 점수화 로직 구축<br> - API 형태로 메인 서비스에 연동 예정<br> **Tech:** Python, FastAPI, Pydantic, PostgreSQL |
+| **whalley-xr-city** | - XR 기반 ‘가상 도시’ 프로토타입 프로젝트<br> - 감정 기반 상호작용 모델, Unity 씬 구성, 백엔드 연동 예정<br> **Tech:** Unity, Blender, C#, Python(API 연동) |
+| **springboot-modernization-2026** | - 기존 Java 웹 프로젝트의 Spring Boot 현대화 실습<br> - 레거시 MVC → Spring Boot 리팩토링, JPA 적용, 테스트 코드 도입<br> **Tech:** Java, Spring Boot, JPA, MySQL, Gradle |
+
 
 
 
