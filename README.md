@@ -1,12 +1,10 @@
 
 <br>
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=GangJiyeon&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/GangJiyeon"
-  width="300"
-  height="150"
-/>
-</a>
+        <img src="https://render.gitanimals.org/farms/GangJiyeon" width="300" height="150"/></a>
+
+
 
 
 
@@ -20,9 +18,10 @@ I'm a Java & python backend developer and interested in XR!
 * 사용 가능한 기술 스택
   | 구분 | 내용 |
   |---|---|
-  |언어| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)|
-  |프레임워크| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)|
-  |기타 (기초 경험)| ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)|
+  |언어|![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)|
+  |프레임워크|![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)|
+  |기초|![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) |
+  |기타| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)|
 
 * 관심 있는 개발 분야: 웹(백엔드), XR
 
@@ -70,9 +69,11 @@ I'm a Java & python backend developer and interested in XR!
 
 **[ GitHub Contribution Graph ]**
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GangJiyeon&theme=nord)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GangJiyeon&show_icons=true&theme=nord)
-![trophy](https://github-profile-trophy.vercel.app/?username=GangJiyeon&theme=nord&row=1&column=6)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GangJiyeon&theme=nord&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=GangJiyeon&theme=nord&hide_border=true&include_all_commits=false&count_private=false)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=GangJiyeon&theme=nord&no-frame=true&row=1&column=6)
+
 
 
 **[ 최근 기여 내역 ]**
@@ -82,7 +83,8 @@ I'm a Java & python backend developer and interested in XR!
 
 **[ 학습용 저장소 목록 및 기술 스택 정리 ]**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GangJiyeon&layout=compact&theme=nord)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GangJiyeon&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 |레파지토리|요약 및 기술 스택 정리|
 |---|---|
