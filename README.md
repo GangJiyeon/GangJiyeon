@@ -123,8 +123,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=GangJiyeon&theme=nord&no-frame=true&row=1&column=6)
 
 #### ⭐ 가장 많이 사용한 언어  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GangJiyeon&theme=nord&hide_border=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GangJiyeon&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br>
 
 
