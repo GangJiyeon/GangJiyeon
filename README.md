@@ -131,15 +131,12 @@
 
 | Repository | Summary & Tech Stack |
 |-----------|----------------------|
-| **Familyone** | 패밀리원 배송 API 개발 (실무 복기)<br> **Tech:** Python, Flask, MySQL |
-| **Haema** | 관리자 페이지 Flask 마이그레이션 (실무 복기)<br> **Tech:** Python, Flask, JavaScript, MSSQL |
-| **perfect_c** | C언어 예제 정리<br> **Tech:** C |
+| **Familyone** | 패밀리원 배송 API 개발 (실무 복기 - 보안상 일부 로직 생략)<br> **Tech:** Python, Flask, MySQL |
+| **Haema** | 관리자 페이지 Flask 마이그레이션 (실무 복기 - 보안상 일부 로직 생략)<br> **Tech:** Python, Flask, JavaScript, MSSQL |
+| **perfect_c** | C언어 예제 정리 - 인프런 홍정모의 따라하며 배우는 C언어 및 perfect C 교재 참고 <br> **Tech:** C |
 | **Gangjiyeon.github.io** | 개인 기술 블로그<br> **Tech:** HTML/CSS/JS, GitHub Pages |
 | **plannerz** | 일정·결제 관리 웹앱<br> **Tech:** Java, Spring MVC, MySQL |
-| **whalley** | 워홀 정보 제공 서비스<br> **Tech:** FastAPI, PostgreSQL, Next.js |
-| **whalley-score-engine** | 점수 계산 엔진 API<br> **Tech:** FastAPI, Python |
-| **whalley-xr-city** | XR 가상 도시 시스템<br> **Tech:** Unity, Blender |
-| **springboot-modernization-2026** | 스프링부트 리팩토링 실습<br> **Tech:** Spring Boot, JPA |
+
 
 <br>
 
