@@ -69,7 +69,7 @@
 
 ## 3. 프로젝트에서 맡고 있는 역할
 
-#### [ 알바하기 싫다 (개발 진행 중) ]
+#### [ 알바하기 싫다 ] - (개발 진행 중)
 - **백엔드 개발**
   - Flask 기반 서버 구조 설계  
   - 수입/지출 CRUD, 통계 처리 로직 구현  
@@ -79,7 +79,7 @@
 - **문서 작성**
   - 제안서 / 회의록 / 보고서 작성  
 
-#### [ whalley / whalley-score-engine (구조 설계 및 문서 작성 중) ]
+#### [ whalley / whalley-score-engine ] - (구조 설계 및 문서 작성 중)
 - **백엔드 아키텍처 설계**
   - FastAPI + PostgreSQL 기반 도메인 설계  
   - OpenAPI(Swagger) 문서 자동화  
@@ -89,7 +89,7 @@
 - **서비스 구조 기획**
   - 커뮤니티·정보 제공 서비스 도메인 정의  
 
-#### [ springboot-modernization-2026 (구조 설계 및 문서 작성 중) ]
+#### [ springboot-modernization-2026 ] - (구조 설계 및 문서 작성 중)
 - **기존 레거시 구조 분석 및 현대화**
   - Spring MVC 기반 프로젝트를 Spring Boot로 재구성  
   - XML 설정 기반 구조를 어노테이션 기반으로 리팩토링  
