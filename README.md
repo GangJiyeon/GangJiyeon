@@ -15,7 +15,7 @@
 
 #### about me
 - **name:** Jiyeon Kang  
-- **major:** computer engenieering
+- **major:** computer engineering
 - **interest:** backend, xr
 
 
