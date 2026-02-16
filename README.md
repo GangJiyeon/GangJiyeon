@@ -31,7 +31,7 @@
 * etc: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
 
 #### social & contact me
-- **Portfolio:** https://gangjiyeon.github.io/me.portfolio/main.html 
+- **Portfolio:** [https://gangjiyeon.github.io/me.portfolio/main.html ](https://jiyeon-portfolio.vercel.app/)
 - **Resume/CV:** /public/CV.pdf (수정 중)  
 - **Blog:** https://gangjiyeon.github.io  
 - **LinkedIn:** https://www.linkedin.com/in/jiyeon-kang-1bba6b392/
