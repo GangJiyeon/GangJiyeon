@@ -7,16 +7,8 @@
   </a>
 </div>
 
-<br>
-
-<!-- GitAnimals -->
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=GangJiyeon&theme=nord&hide_border=true&include_all_commits=false&count_private=false)
-
-
-#### social & contact me
 
 
 
